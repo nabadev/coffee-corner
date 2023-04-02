@@ -224,7 +224,7 @@ body {
 
 #nb-hero-section::before {
     content: "";
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.75) 100%), url(coffee-corner/assets/img/coffee-corner-bg-1.jpg) no-repeat center center/cover;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.75) 100%), url(../assets/img/coffee-corner-bg-1.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0;
     right: 0;
